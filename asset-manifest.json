@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sinaAvZ/loginPage.git/static/css/main.380553b3.chunk.css",
+    "main.js": "/sinaAvZ/loginPage.git/static/js/main.8d9e8e16.chunk.js",
+    "main.js.map": "/sinaAvZ/loginPage.git/static/js/main.8d9e8e16.chunk.js.map",
+    "runtime-main.js": "/sinaAvZ/loginPage.git/static/js/runtime-main.3f92332e.js",
+    "runtime-main.js.map": "/sinaAvZ/loginPage.git/static/js/runtime-main.3f92332e.js.map",
+    "static/js/2.da21f9d6.chunk.js": "/sinaAvZ/loginPage.git/static/js/2.da21f9d6.chunk.js",
+    "static/js/2.da21f9d6.chunk.js.map": "/sinaAvZ/loginPage.git/static/js/2.da21f9d6.chunk.js.map",
+    "static/js/3.a2fe7566.chunk.js": "/sinaAvZ/loginPage.git/static/js/3.a2fe7566.chunk.js",
+    "static/js/3.a2fe7566.chunk.js.map": "/sinaAvZ/loginPage.git/static/js/3.a2fe7566.chunk.js.map",
+    "index.html": "/sinaAvZ/loginPage.git/index.html",
+    "static/css/main.380553b3.chunk.css.map": "/sinaAvZ/loginPage.git/static/css/main.380553b3.chunk.css.map",
+    "static/js/2.da21f9d6.chunk.js.LICENSE.txt": "/sinaAvZ/loginPage.git/static/js/2.da21f9d6.chunk.js.LICENSE.txt",
+    "static/media/Frame 3.8a656cde.png": "/sinaAvZ/loginPage.git/static/media/Frame 3.8a656cde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f92332e.js",
+    "static/js/2.da21f9d6.chunk.js",
+    "static/css/main.380553b3.chunk.css",
+    "static/js/main.8d9e8e16.chunk.js"
+  ]
+}
